@@ -1,5 +1,0 @@
-# ICIN_BANK_CAPSTONE_PROJECT_SIMPLILEARN
-
-# Complete project 
-
-- by   K.RADHAKRISHNA
